@@ -1,7 +1,6 @@
 # Weather-App
-My weather app is a simple and user-friendly application that provides real-time weather updates for any location in the world.  
-The app also features a search function that allows users to easily find weather information of any location of their choice
- The app is built using HTML, CSS, and JavaScript, and utilizes the OpenWeather API for weather data.
+My weather app is a simple and user-friendly application that provides real-time weather updates for any location in the world. The app also features a search function that allows users to easily find weather information of any location of their choice.
+The app is built using HTML, CSS, and JavaScript, and utilizes the OpenWeather API for weather data.
 
 Key features of the weather app include:
 
