@@ -4,10 +4,11 @@ The app is built using HTML, CSS, and JavaScript, and utilizes the OpenWeather A
 
 Key features of the weather app include:
 
-Real-time weather updates for any location
-Hourly and daily forecasts
-Search function for finding weather information for any location
-Minimalistic and user-friendly design
+-Real-time weather updates for any location.   
+-Hourly and daily forecasts.   
+-Search function for finding weather information for any location.   
+-Minimalistic and user-friendly design.   
+
 Whether you're planning a trip, getting ready for a day out, or simply curious about the weather, our weather app has got you covered.
 
 Installation:
